@@ -130,4 +130,4 @@ Here are some ideas you could include, making the game more fun:
 
 ## Turn-in and peer-evaluation
 
-As usual, turn in your work on your repo GiT. Only the work included on your repo will be reviewed during the evaluation.
+As usual, turn in your work on your GIT repo. Only the work included on your repo will be reviewed during the evaluation.
