@@ -8,7 +8,9 @@
 
 ## To infinity and beyond!
 
-![ExampleV1](/img/galaxy1.png)
+<div align="center">
+    <img src="/img/galaxy1.png" alt="Snow" style="width:100%">
+</div>
 
 ## Foreword
 
@@ -66,7 +68,9 @@ The game should also present the player with a GUI that gives the ability to def
 
 Feel free to change the names of these parameters to something reasonably different, the goal is to just expose certain parameteres that change the visual look of the galaxy.
 
-![ExampleV1](/img/GalaxyEditor4.gif)
+<div align="center">
+    <img src="/img/GalaxyEditor4.gif" alt="Snow" style="width:100%">
+</div>
 
 ---
 
@@ -87,7 +91,9 @@ Your galaxy should have noticable features such as:
 - Add some color:
   - There should be at least 3, or more, recognizable colors for stars. Meaning they should not share the same color, for instance, every star being yellow or red.
 
-![ExampleV1](/img/galaxy2.png)
+<div align="center">
+    <img src="/img/galaxy2.png" alt="Snow" style="width:100%">
+</div>
 
 ---
 
@@ -115,10 +121,12 @@ Here are some ideas you could include, making the game more fun:
 
 - Every star should generate a sol system that can be a binary system, trinary, ... and they should also generate X amount of planets which can be habitable, unhabitable, gas planet. The player can then visit those systems and within the system, maybe make them orbit the sun as well?
 
-![ImgA](/img/sol.png)
-![Imgb](/img/planets.gif)
-
 - Anything else you think is a nice addition.
+
+<div align="center">
+    <img src="img/sol.png" alt="Snow" style="width:100%">
+    <img src="img/planets.gif" alt="Forest" style="width:100%">
+</div>
 
 ## Turn-in and peer-evaluation
 
