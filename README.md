@@ -54,7 +54,7 @@ The objective of this project is to create a realtime galaxy creation game that 
 
 ### V.1
 
-The player should be able to orbit around the galaxy, allowing them to rotate to have a different perspective or zoom in/out from the core. Optionally you can also use the mouse to click somewhere and the player controller should move to that position.
+The player should be able to orbit around the galaxy, allowing them to rotate inorder change to a different perspective. They should also be able to zoom in/out from the core. Optionally you can also use the mouse to click somewhere and the player controller should move to that position.
 
 The game should also present the player with a GUI that gives the ability to define certain parameters such as:
 
