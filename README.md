@@ -115,32 +115,8 @@ Here are some ideas you could include, making the game more fun:
 
 - Every star should generate a sol system that can be a binary system, trinary, ... and they should also generate X amount of planets which can be habitable, unhabitable, gas planet. The player can then visit those systems and within the system, maybe make them orbit the sun as well?
 
-<style>
-* {
-  box-sizing: border-box;
-}
-
-.column {
-  float: left;
-  width: 50%;
-  padding: 5px;
-}
-
-.row::after {
-  content: "";
-  clear: both;
-  display: table;
-}
-</style>
-
-<div class="row">
-  <div class="column">
-    <img src="img/sol.png" alt="Snow" style="width:100%">
-  </div>
-  <div class="column">
-    <img src="img/planets.gif" alt="Forest" style="width:100%">
-  </div>
-</div>
+![ImgA](/img/sol.png)
+![Imgb](/img/planets.gif)
 
 - Anything else you think is a nice addition.
 
