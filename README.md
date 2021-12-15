@@ -99,9 +99,9 @@ Its time to get into particle systems and make some fog to simulate nebulas. The
 
 > Performance in this section is crucial! So be smart on how to create the particle system, do not just simply create a bunch of emitters everywhere.
 
-Last but not least the player should be able save/export the current settings into a file format that can be loaded into the game and load/import those settings to recreate the galaxy. Feel free to use any format you like.
+Last but not least the player should be able save/export the current settings into a file format which you can then, again, load/import those settings to recreate the galaxy. Feel free to use any format you like.
 
-Finally, make sure to implement some LOD's for you models, needles to say your game should not stutter or lag.
+Finally, make sure to implement some LOD's for your models, needles to say your game should not stutter or lag.
 
 ---
 
