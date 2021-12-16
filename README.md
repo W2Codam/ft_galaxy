@@ -83,7 +83,6 @@ Your galaxy should have noticable features such as:
 
 - Oval in shape:
   - When looking from the side you should be able to recognize that its slightly sloping towards the middle, starting from the center.
-  - This will make it look visually nicer and more appealing as without this step your galaxy will look quite thick from a side view.
 
 - Make them sparkle:
   - Stars should have slightly noticable animaton, as in, they should sparkle. This should be achieved within a shader.
