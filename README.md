@@ -119,7 +119,7 @@ Here are some ideas you could include, making the game more fun:
 
 - Allow the player to travel from star to star! Maybe even implement a pathing algorithm to travel much more conveniently from A to B.
 
-- Every star should generate a sol system that can be a binary system, trinary, ... and they should also generate X amount of planets which can be habitable, unhabitable, gas planet. The player can then visit those systems and within the system, maybe make them orbit the sun as well?
+- Every star should generate a sol system that can be a binary system, trinary, ... and they should also generate X amount of planets which can be habitable, unhabitable, gas planet. The player can then visit those systems and move around within the system, maybe make the planets orbit the sun as well?
 
 - Anything else you think is a nice addition.
 
