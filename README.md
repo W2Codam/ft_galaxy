@@ -14,7 +14,7 @@
 
 ## Foreword
 
-Have you ever watched the movie Wall-E? No? Leave and come back when you did. I'll wait. If you did watch it Wall-E, congrats! You finished the project.
+Have you ever watched the movie Wall-E? No? Leave and come back when you did. I'll wait. If you did watch it, congrats! You finished the project.
 
 Kidding aside, it is the perfect movie to inspire you; especially the first [few seconds](https://www.youtube.com/watch?v=nLx_7wEmwms). Also checkout Stellaris, Elite Dangerous and Spore while you're at it, spoiler alert, they all contain galaxies.
 
