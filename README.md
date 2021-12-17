@@ -20,6 +20,8 @@ Kidding aside, it is the perfect movie to inspire you; especially the first [few
 
 Heres a fun fact, our galaxy the milkyway has an estimated visible diameter of 100,000–200,000 light-years. Additionally it hosts roughly 100-400 billion stars. Your galaxy will not have that many stars of course, you wouldn't want to make your GPU cry in agony.
 
+If you're curious just how massive that is, watch [this video](https://www.youtube.com/watch?v=0FH9cgRhQ-k) about black holes!
+
 Are you inspired yet? Good. Lets get started.
 
 ## Introduction
