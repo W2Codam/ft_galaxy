@@ -86,10 +86,10 @@ Your galaxy should have noticable features such as:
 - Oval in shape:
   - When looking from the side you should be able to recognize that its slightly sloping towards the middle, starting from the center.
 
-- Make them sparkle:
+- Sparkling stars:
   - Stars should have slightly noticable animaton, as in, they should sparkle. This should be achieved within a shader.
 
-- Add some color:
+- Some color:
   - There should be at least 3, or more, recognizable colors for stars. Meaning they should not share the same color, for instance, every star being yellow or red.
 
 <div align="center">
